@@ -158,12 +158,10 @@ All `/api/*` errors are returned as JSON, even without an `Accept` header.
 
 ## Screenshots
 
-<!-- Add your Postman screenshots in docs/screenshots/ and uncomment the lines below -->
-<!--
-![Login](docs/screenshots/login.png)
-![Create booking](docs/screenshots/create-booking.png)
-![My bookings](docs/screenshots/my-bookings.png)
--->
+[Login](docs/screenshots/login.png)
+[Create booking](docs/screenshots/create-booking.png)
+[Cancel bookings](docs/screenshots/cancel-bookings.png)
+
 
 ## Author
 
