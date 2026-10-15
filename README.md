@@ -164,7 +164,7 @@ All `/api/*` errors are returned as JSON, even without an `Accept` header.
 ### Create Booking
 ![Create booking](docs/screenshots/create-booking.png)
 
-### My Bookings
+### Cancel Bookings
 ![Cancel bookings](docs/screenshots/cancel-booking.png)
 
 
